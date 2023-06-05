@@ -1,0 +1,9 @@
+"Id";"Oznaczenie";"Obudowa";"Ilość";"Oznaczenie";"Dostawca i numer artykułu";
+1;"REF**,REF**,REF**,REF**";"MountingHole_3mm";4;"MountingHole_3mm";;;
+2;"J1";"JOINT_TECH_A1250WV-6P_rev";1;"Conn_01x06_Male";;;
+3;"D2";"LED_2835Metric_RI35TS_reversed";1;"LED";;;
+4;"D1";"LED_2835Metric_RI35TS";1;"LED";;;
+5;"Q2,Q1";"SOT-23";2;"Q_NPN_BEC";;;
+6;"R5,R4";"R_1206_3216Metric";2;"10k";;;
+7;"R2";"R_1206_3216Metric";1;"100";;;
+8;"R1";"R_1206_3216Metric";1;"68";;;
